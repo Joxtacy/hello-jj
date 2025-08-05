@@ -2,5 +2,14 @@
 ///
 /// This is the best implementation of this program to ever exist.
 fn main() {
-    println!("Hello, world!");
+    print_hello();
+    print_goodbye();
+}
+
+fn print_hello() {
+    println!("hello, world!");
+}
+
+fn print_goodbye() {
+    println!("goodbye, world!");
 }
