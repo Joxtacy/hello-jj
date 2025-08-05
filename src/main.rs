@@ -3,7 +3,6 @@
 /// This is the best implementation of this program to ever exist.
 fn main() {
     print("hello, world!");
-    print("goodbye, world!");
 }
 
 // a function that prints a message
